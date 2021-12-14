@@ -1,8 +1,21 @@
-### Hello, Devs 👋
-### My name is Fabiano Heizer
+## Hello, Devs 👋
+I'm Fabiano Heizer. I'm Software Engineer at ANBIMA. I've been working with Java since 2006.
 
-### I am currently working on 
+## I am currently working on 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" height="60"/>
+
+## Skills
+#Backend
+- Java, JakartaEE and Spring
+
+#Frontend
+- TypeScript and Angular
+
+#Databases
+- Oracle and MySQL
+
+#Swift
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -10,21 +23,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianoheizer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contacts
-### fabianoheizer@gmail.com
-### +55 21 98128-6714
-
-<!--
-**fabianoheizer/fabianoheizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+fabianoheizer@gmail.com <br>
++55 21 98128-6714
